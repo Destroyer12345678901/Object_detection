@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+h3{
+    font-size:100px;
+    margin-top: 1px;
+}
+img{
+    width: 400px;
+    height: 200px; 
+}
